@@ -1,3 +1,0 @@
-﻿Public Function calc(x,y)
-       MyValue=x+y
-       End Function
